@@ -1,2 +1,2 @@
 # MNIST
-Trains a simple convnet on the MNIST dataset with Keras.
+A simple convnet on the MNIST dataset with Keras.
